@@ -5,10 +5,15 @@ A full-stack Blood Donation & Management System designed to connect donors, hosp
 📁 Project Structure
 Smart-Blood-Donation-and-Management-System
 │
+
 ├── backend
+
 ├── 8th Blood Project
+
 ├── 8th Blood Project APP
+
 ├── .gitignore
+
 └── README.md
 
 📱 1. 8th Blood Project APP (Mobile Application)
