@@ -170,7 +170,3 @@ Provide a reliable emergency blood request system
 
 Nauman Sama
 Smart Blood Donation and Management System
-
-Nauman Sama
-Final Year B.Tech Project
-Smart Blood Donation and Management System
